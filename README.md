@@ -1,4 +1,4 @@
-# HOMEWORK 1
+# HOMEWORK 2
 
 ***посмотреть текущий уровень изоляции: show transaction isolation level***
 
